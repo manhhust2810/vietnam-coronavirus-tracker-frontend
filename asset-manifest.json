@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vietnam-coronavirus-tracker-frontend/static/css/main.d9e1bb0c.chunk.css",
+    "main.js": "/vietnam-coronavirus-tracker-frontend/static/js/main.931ac10a.chunk.js",
+    "main.js.map": "/vietnam-coronavirus-tracker-frontend/static/js/main.931ac10a.chunk.js.map",
+    "runtime-main.js": "/vietnam-coronavirus-tracker-frontend/static/js/runtime-main.6a0b4ec1.js",
+    "runtime-main.js.map": "/vietnam-coronavirus-tracker-frontend/static/js/runtime-main.6a0b4ec1.js.map",
+    "static/js/2.cd9a2ad5.chunk.js": "/vietnam-coronavirus-tracker-frontend/static/js/2.cd9a2ad5.chunk.js",
+    "static/js/2.cd9a2ad5.chunk.js.map": "/vietnam-coronavirus-tracker-frontend/static/js/2.cd9a2ad5.chunk.js.map",
+    "index.html": "/vietnam-coronavirus-tracker-frontend/index.html",
+    "static/css/main.d9e1bb0c.chunk.css.map": "/vietnam-coronavirus-tracker-frontend/static/css/main.d9e1bb0c.chunk.css.map",
+    "static/js/2.cd9a2ad5.chunk.js.LICENSE.txt": "/vietnam-coronavirus-tracker-frontend/static/js/2.cd9a2ad5.chunk.js.LICENSE.txt",
+    "static/media/avatar.45959bb1.jpg": "/vietnam-coronavirus-tracker-frontend/static/media/avatar.45959bb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a0b4ec1.js",
+    "static/js/2.cd9a2ad5.chunk.js",
+    "static/css/main.d9e1bb0c.chunk.css",
+    "static/js/main.931ac10a.chunk.js"
+  ]
+}
